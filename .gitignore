@@ -1,0 +1,13 @@
+# Large raw source data should be stored separately or with Git LFS.
+data/raw/*.gpkg
+
+# Python local files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment secrets
+.env
+.env.*
+!.env.example
