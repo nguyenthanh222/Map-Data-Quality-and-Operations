@@ -10,18 +10,18 @@ The following 16:9 PNGs are page-background templates for a three-page Power BI 
 
 ### 01 · Overview
 
-![Overview dashboard background](<img width="1287" height="725" alt="Screenshot 2026-10-02 122509" src="https://github.com/user-attachments/assets/f4ce7a3e-f602-4c2b-bb7f-f7aaa655bdc2" />
-)
+<img width="1287" height="725" alt="Screenshot 2026-10-02 122509" src="https://github.com/user-attachments/assets/f4ce7a3e-f602-4c2b-bb7f-f7aaa655bdc2" />
+
 
 ### 02 · Data Quality Analysis
 
-![Data quality dashboard background](<img width="1278" height="731" alt="Screenshot 2026-10-02 122529" src="https://github.com/user-attachments/assets/800303ed-fc68-4f56-b88a-911497d0b2dc" />
-)
+<img width="1278" height="731" alt="Screenshot 2026-10-02 122529" src="https://github.com/user-attachments/assets/800303ed-fc68-4f56-b88a-911497d0b2dc" />
+
 
 ### 03 · Operations Monitoring
 
-![Operations dashboard background](<img width="1287" height="727" alt="Screenshot 2026-10-02 122546" src="https://github.com/user-attachments/assets/72d75972-4e8b-48a3-b08a-75f982a0a7a7" />
-)
+<img width="1287" height="727" alt="Screenshot 2026-10-02 122546" src="https://github.com/user-attachments/assets/72d75972-4e8b-48a3-b08a-75f982a0a7a7" />
+
 
 To apply a background in Power BI Desktop, set the report page to 16:9, choose the matching PNG under **Format page → Canvas background/Page background**, set **Image fit** to **Fit** and transparency to **0%**, then layer native visuals over the empty panels. Add transparent **Blank** buttons over the sidebar labels and configure **Action → Page navigation** for each destination.
 
